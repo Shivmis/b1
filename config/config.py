@@ -45,7 +45,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/vishalpandeynkp1/NOBITA-EXTRA-PLUGIN",
+    "https://t.me/stickers_Channell",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -67,7 +67,7 @@ LOG_GROUP_ID = (getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "11679112664").split())
+    map(int, getenv("OWNER_ID", "7491834397").split())
 )  # Input type must be interger
 
 
