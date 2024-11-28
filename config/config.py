@@ -252,27 +252,27 @@ STREAM_IMG_URL = getenv(
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/92ac9a4ac302e1df01a79-04af86a0905adbbf4c.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/e7ca1ed37ca4ff8e95468-cde9c11ae34e2e1f8e.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/92ac9a4ac302e1df01a79-04af86a0905adbbf4c.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/ee9f6b1be6d935412b144-224fb3eeaeb60a815b.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/5ff70ad8bfab652c3bc1d-7fc84894af8edbb69e.jpg",
 )
 
 
